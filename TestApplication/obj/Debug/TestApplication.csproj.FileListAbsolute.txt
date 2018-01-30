@@ -1,0 +1,8 @@
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\bin\Debug\TestApplication.exe.config
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\bin\Debug\TestApplication.exe
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\bin\Debug\TestApplication.pdb
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\bin\Debug\SharpLearning.dll
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\bin\Debug\SharpLearning.pdb
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\obj\Debug\TestApplication.exe
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\TestApplication\obj\Debug\TestApplication.pdb

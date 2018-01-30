@@ -1,0 +1,5 @@
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\SharpLearning\bin\Debug\SharpLearning.dll
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\SharpLearning\bin\Debug\SharpLearning.pdb
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\SharpLearning\obj\Debug\SharpLearning.csprojResolveAssemblyReference.cache
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\SharpLearning\obj\Debug\SharpLearning.dll
+E:\Fedorr\Visual Studio 2017\Projects\SharpLearning\SharpLearning\obj\Debug\SharpLearning.pdb
